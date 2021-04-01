@@ -1,0 +1,2 @@
+class PlaceEvent < ApplicationRecord
+end
